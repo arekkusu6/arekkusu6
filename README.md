@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arekkusu6&label=Profile%20views&color=0e75b6&style=flat" alt="arekkusu6" /> </p>
 
-- 🔭 I’m currently working on **Work & Personal projects found here.**
+- 🔭 I’m currently working on **Personal projects found here.**
 
 - 🌱 I’m currently learning **Effective communication & contributing to open source.**
 
